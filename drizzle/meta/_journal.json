@@ -8,6 +8,13 @@
       "when": 1722647841736,
       "tag": "0000_safe_silver_centurion",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1722649001888,
+      "tag": "0001_tidy_silver_centurion",
+      "breakpoints": true
     }
   ]
 }
